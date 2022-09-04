@@ -6,8 +6,8 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 html,body{
-   width: 585px;
-   height: 796px;
+   width: 100%;
+   height: 100%;
 }
 body{
     background-image: url(../imagens/fundo-madeira.jpg);
